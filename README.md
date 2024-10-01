@@ -30,3 +30,5 @@ Contributions are welcome! Please follow these steps:
 
 ## Raising an Issue
 If you encounter any bugs or have feature requests, please create an issue in the repository. Provide detailed information to assist in addressing the problem.
+
+Credits to [bradtraversy](https://github.com/bradtraversy/creative-agency-website)
