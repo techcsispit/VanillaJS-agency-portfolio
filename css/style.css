@@ -134,7 +134,7 @@ section.home {
   background-repeat: no-repeat;
 }
 
-/* NAVIGATION */
+/* NAVIGATION
 .navigation {
   position: fixed;
   top: 0;
@@ -193,7 +193,7 @@ section.home {
   position: absolute;
   bottom: 20px;
   transform: scale(0.5);
-}
+} */
 
 /* HOMEPAGE */
 .home-content {
